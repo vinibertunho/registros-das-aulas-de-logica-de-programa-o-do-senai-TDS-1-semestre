@@ -1,0 +1,1 @@
+let nome = ['Tiktok', 'Instagram', 'WhatsApp' , 'Snapchap' , 'Spotify' , 'Netflix' , 'Youtube' , ]
